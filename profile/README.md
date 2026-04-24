@@ -2,9 +2,9 @@
 
 Describe your system once in YAML — components, dependencies, probes, what "healthy" means. mgtt runs the same model in CI (against synthetic scenarios, so drift fails the PR) and at 3am (against the live system, picking the next most discriminating probe). Postmortems come out as scenario patches you merge back into the model.
 
-More on what and why: [mgt-tool/mgtt](https://github.com/mgt-tool/mgtt).
+Docs: [mgt-tool.github.io/mgtt](https://mgt-tool.github.io/mgtt/) · Source: [mgt-tool/mgtt](https://github.com/mgt-tool/mgtt).
 
-## Repositories
+## Open source repositories
 
 **Core**
 
