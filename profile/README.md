@@ -14,7 +14,7 @@ Docs: [mgt-tool.github.io/mgtt](https://mgt-tool.github.io/mgtt/) · Source: [mg
 
 - [**mgtt-provider-kubernetes**](https://github.com/mgt-tool/mgtt-provider-kubernetes) — workloads, networking, scaling, storage, RBAC, webhooks, extensibility.
 - [**mgtt-provider-aws**](https://github.com/mgt-tool/mgtt-provider-aws) — databases, compute, messaging, storage.
-- [**mgtt-provider-docker**](https://github.com/sajonaro/mgtt-provider-docker) — containers and compose stacks.
+- [**mgtt-provider-docker**](https://github.com/mgt-tool/mgtt-provider-docker) — containers and compose stacks.
 - [**mgtt-provider-terraform**](https://github.com/mgt-tool/mgtt-provider-terraform) — reasons across the IaC / live-state boundary.
 - [**mgtt-provider-tempo**](https://github.com/mgt-tool/mgtt-provider-tempo) — per-span SLO checks over Grafana Tempo.
 - [**mgtt-provider-quickwit**](https://github.com/mgt-tool/mgtt-provider-quickwit) — cross-span tracing checks (transaction flows, async hops, consumer pools).
